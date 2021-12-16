@@ -1,0 +1,23 @@
+body {
+    background: green;
+}
+h1 {
+    border: 1px;
+}
+.ghinho1 {
+    size: 20px;
+    color: red;
+}
+.ghinho2 {
+    size: 20;
+    color: red;
+}
+.box {
+    padding: 25px;
+    margin: 20px;
+    border-top: 20px solid red;
+    border-bottom: 20px solid red;
+    background-color: lightgrey;
+    width: 200px; height: 200px;
+    text-align: center;
+}
