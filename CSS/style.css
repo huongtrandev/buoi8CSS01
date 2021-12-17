@@ -21,3 +21,10 @@ h1 {
     width: 200px; height: 200px;
     text-align: center;
 }
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
